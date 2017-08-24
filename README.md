@@ -1,2 +1,5 @@
-# eagle_pcb_cam_dru
+# Archivos DRU y procesador CAM de 2BRobots
 Estos archivos se pueden usar para revisar tu PCB en cadsoft EAGLE y posteriormente generar los archivos gerber para su fabricación.
+
+No te olvides de mirar nuestro tutorial en:
+https://www.youtube.com/channel/UCsyL5aZiYVJQ8o58usFtgpA/live
