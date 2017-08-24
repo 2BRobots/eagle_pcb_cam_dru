@@ -3,3 +3,5 @@ Estos archivos se pueden usar para revisar tu PCB en cadsoft EAGLE y posteriorme
 
 No te olvides de mirar nuestro tutorial en:
 https://www.youtube.com/channel/UCsyL5aZiYVJQ8o58usFtgpA/live
+
+Puedes enviarnos tus archivos gerber para cotizacion y fabricacion a: hi@2brobots.com 
